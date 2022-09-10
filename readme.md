@@ -1,5 +1,7 @@
 # Hello there! 👋
 
+![Eyji's github stats](https://github-readme-stats.vercel.app/api?username=eyji-koike&show_icons=true&theme=dracula&hide=contribs&line_height=24)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eyji-koike&layout=compact&hide=Tex,HTML,Java&theme=dracula)  
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
