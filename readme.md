@@ -27,9 +27,6 @@ const Javascript
   name= 'CI/CD'
 ```
 
-‣ Cloud  
-‣ Spanish 🇵🇪
-
 I've developed a love for technology while I was studying IIoT @ Sinclair Community College as a CCI and U.S. Bureau of Educational and Cultural Affairs Alumni.  
 How is it going so far? It seems like Igot the hang of it!!
 
